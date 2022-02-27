@@ -41,7 +41,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-header a {
+header nav ul li a {
     color: #ffffff;
     text-decoration: none;
 }

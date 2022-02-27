@@ -1,6 +1,6 @@
 # first-challenge: Horiseon Landing Page
 
-You can view the Horiseon Landing page here: https://thetinaest.github.io/first-challenge/#search-engine-optimization
+You can view the Horiseon Landing page here: https://thetinaest.github.io/first-challenge
 
 # Description of Challenge Completion
 
